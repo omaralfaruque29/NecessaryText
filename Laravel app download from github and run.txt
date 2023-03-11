@@ -1,0 +1,8 @@
+Follow the following steps to download a laravel project from github and run in a local machine
+1. Make a folder for specific project and git clone into that folder
+2. Run 'composer update' command
+3. Make a database via PHPMyadmin
+4. Rename .env.example file to .env and change database name in that file
+5. Run command 'php artisan key:generate'
+6. Run command 'php artisan migrate'
+7. Run command 'php artisan serve'

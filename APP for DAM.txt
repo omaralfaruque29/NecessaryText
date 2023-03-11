@@ -1,0 +1,20 @@
+Required data for DAM's app develpment project
+
+1. Which type of application reuired? (Web/Desktop/Mobile(IOS/Android))
+2. In which format they will provide data? (CSV/Excel/MS word/google doc/else)
+3. Data size?
+4. Time for application development?
+5. Payment issues(Individual developer/company)?
+6. Full payment after development/ percantge during development?
+7.    
+
+
+
+PHP-Laravel projects:
+1. Various CRUD operations based apps (not available now)
+2. CD/DVD shop management system (never deployed)
+3. School/University management system (not available now)
+4. Ecommerce & recommerce system: SWAP (Link: https://swap.com.bd)
+	pagination
+	selling calculation
+	english bangla conversion
