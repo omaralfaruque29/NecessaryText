@@ -1,0 +1,1 @@
+Salt Bootstrap 4 admin template from themeforest.net: https://github.com/sohidulIslam353/adminpanel
